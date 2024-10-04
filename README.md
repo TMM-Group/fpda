@@ -34,5 +34,6 @@ Zunyi Deng
 [Jiawang Hong](https://sae.bit.edu.cn/szdw20/szml/lxcx20/zgjzcapypx_3/b187464.htm)
 
 ## How to cite
-1. S. Wang, Z. Deng, S. Li, P. Lv, J. Wang, X. Wang, G. Tang, and J. Hong, First-principles insights into the ferroelectric, dielectric, and piezoelectric properties of polar Pca2<sub>1</sub> SbN, [Phys. Rev. B 108, 174110 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.174110).
-2. Xian Zi, Zunyi Deng, Lixiang Rao, Yongheng Li, Gang Tang, and Jiawang Hong, First-principles study of ferroelectric, dielectric, and piezoelectric properties in the nitride perovskites Ce⁢𝐵⁢N<sub>3</sub> (𝐵 = Nb, Ta), [Phys. Rev. B 109, 115125 (2024)]([https://doi.org/10.1103/PhysRevB.109.115125)).
+1. Shihao Wang, Zunyi Deng, Shuhan Li, Peng Lv, Jing Wang, Xueyun Wang, Gang Tang*, and Jiawang Hong*, First-principles insights into the ferroelectric, dielectric, and piezoelectric properties of polar Pca2<sub>1</sub> SbN, [Phys. Rev. B 108, 174110 (2023)](https://doi.org/10.1103/PhysRevB.108.174110).
+2. Xian Zi, Zunyi Deng, Lixiang Rao, Yongheng Li, Gang Tang*, and Jiawang Hong*, First-principles study of ferroelectric, dielectric, and piezoelectric properties in the nitride perovskites Ce⁢𝐵⁢N<sub>3</sub> (𝐵 = Nb, Ta), [Phys. Rev. B 109, 115125 (2024)](https://doi.org/10.1103/PhysRevB.109.115125).
+3. Gang Tang*, Xiaohan Liu, Shihao Wang, Tao Hu, Chunbao Feng, Cheng Zhu, Bonan Zhu, and Jiawang Hong*, Designing antiperovskite derivatives via atomic-position splitting for photovoltaic applications, [Mater. Horiz. DOI:10.1039/D4MH00526K (2024)](DOI	https://doi.org/10.1039/D4MH00526K).
